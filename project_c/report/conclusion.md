@@ -1,0 +1,11 @@
+<h1 align="center"> Reflexão final </h1>
+
+<p>O nosso grupo reconhece tantos aspetos positivos como negativos do trabalho. Estamos conscientes  que faltou uma certa **camada de abstração** entre a **API STable** e os devidos *catálogos de users, reviews e businesses*. Entendemos isto, como também sabemos que é completamente acessível acrescentar tal camada em nosso projeto. Porém, este ponto que faltou em nosso trabalho, acreditamos ter **compensado**  (de uma certa forma) com algo tão grandioso quanto o que foi pedido. Passamos desapercebidos pelos catálogos citados pois o que nós queríamos fazer era criar algo que não servia apenas para o nosso projeto. Sim, por um lado o catálogo de *users* (por exemplo) seria uma espécie de **API** para estudar e analisar ficheiros como o *users_full.csv*. Mas querendo ou não, existe uma certa limitação desta ideia cujo propósito se prende apenas ao nosso projeto. Acreditamos que o que fizemos ao criar a **Standart Table** tenha sido mais ousado e conquista um dos grandes pilares que estamos a aprender atualmente: ```fazer código genérico```. Criamos algo que pode ser comparável (em sua devida proporção) as bibliotecas de **GTree's** ou **HashTables** da **GLib**. Mas na nossa, oferecemos um módulo para tratar de informações representadas na forma de **tabelas** (de forma super otimizada). Em qualquer outro projeto que precise simular uma *base de dados*, já temos algo feito e que sabemos que vai servir, independente dos dados que lidaremos. Por consequência disto acabos por tratar os ficheiros todos da mesma forma, causando a falta daquela camada de abstração citada anteriormente. Nossa conclusão e reflexão foi que, acreditamos ter **proporcionalmente** compensando a falta da *camada* citada com a criação da **STandart Table**. Querendo ou não, podemos adaptar nosso código para obedecer mais o enunciado e muito provavelmente não ter tratado os catálogos de forma específica seja algo penalizador, mas acreditamos ter criado algo com grande potencial que cumpre com nosso real objetivo: ```pensar para além do nosso próprio trabalho```. E de bônus ainda criamos uma **API** que pode ser utilizada por qualquer pessoa que queira fazer uma interface de linha de comando, e que é acessível a *updates* e melhorias, sem estar presa a um tipo específico de sintaxe de comandos.</p>
+
+
+
+
+
+
+
+
